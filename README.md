@@ -5,6 +5,8 @@ poolobject
 
 [![codebeat badge](https://codebeat.co/badges/2abe3899-b4d8-4895-94d1-c2fc4711fe91)](https://codebeat.co/projects/github-com-andrespuentesg-poolobject-master)
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/7804cde0fee384324c3a/maintainability)](https://codeclimate.com/github/haleks5/Poolobject/maintainability)
+
 Java code example of creational design pattern pool object
 
 Workshop to use good practices in software development: testing, ci and measurement.
