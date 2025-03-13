@@ -2,7 +2,9 @@ poolobject
 ==========
 
 [![codecov](https://codecov.io/gh/SofiaCalaviaGomez/Poolobject/graph/badge.svg?token=R35YMOPP2V)](https://codecov.io/gh/SofiaCalaviaGomez/Poolobject)
-[![codebeat badge](https://codebeat.co/badges/797148b4-c42b-4a7a-a2e1-4b3d41f8dce7)](https://codebeat.co/projects/github-com-chendye-badges-demo-master)
+
+[![codebeat badge](https://codebeat.co/badges/2abe3899-b4d8-4895-94d1-c2fc4711fe91)](https://codebeat.co/projects/github-com-andrespuentesg-poolobject-master)
+
 Java code example of creational design pattern pool object
 
 Workshop to use good practices in software development: testing, ci and measurement.
