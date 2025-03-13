@@ -7,6 +7,8 @@ poolobject
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/7804cde0fee384324c3a/maintainability)](https://codeclimate.com/github/haleks5/Poolobject/maintainability)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=MarioCea_Poolobject&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=MarioCea_Poolobject)
+
 Java code example of creational design pattern pool object
 
 Workshop to use good practices in software development: testing, ci and measurement.
